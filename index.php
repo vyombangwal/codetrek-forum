@@ -37,7 +37,7 @@
 		<div class=" col-xs-1 " style="float:left;">
 			<h2 style="font-family:Times; margin-top: 0;">Questions</h2>
 		</div>
-        <div class="col-xs-4	 col-xs-offset-5">
+        <div class="col-xs-4	 col-xs-offset-5" style="margin-left: 40em;">
     		
             <div id="custom-search-input">
                 <div class="input-group col-xs-7 col-xs-offset-4">
@@ -50,8 +50,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-xs-1" style=""><button class="btn btn-primary"  style="height:2.4em; background-color:white;color:blue;border: solid blue 1px;" type="button">Ask question</button></div>
+        <button class="btn btn-primary"  style="height:2.4em; background-color:white;color:blue;border: solid blue 1px;" type="button">Ask question</button></div>
 	</div>
+  <div class="container">
 <br>
 <div class="card" style="width: 100%; border: 1px solid  grey ; border-radius:1em; ">
   <div class="card-body" style="margin:2em;">
@@ -108,5 +109,12 @@
 
 
 </div>
+  <footer> 
+  <div class="container-fluid"> 
+    <center> 
+      <p style="background-color:black;color:white;bottom:0; ">Report any problem Copyright &copy;Spyders.dsc.com All Rights Reserved </p> 
+    </center> 
+  </div> 
+</footer>
 	</body>
 </html>
