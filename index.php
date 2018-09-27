@@ -35,7 +35,7 @@
 <div class="container">
 	<div class="row">
 		<div class=" col-xs-1 " style="float:left;">
-			<h2 style="Times">Questions</h2>
+			<h2 style="font-family:Times; margin-top: 0;">Questions</h2>
 		</div>
         <div class="col-xs-4	 col-xs-offset-5">
     		
