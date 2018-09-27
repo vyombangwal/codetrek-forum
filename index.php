@@ -50,7 +50,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xs-1" style=""><button class="btn btn-primary"  style="height:2.4em; background-color:white;color:black" type="button">Ask question</button></div>
+        <div class="col-xs-1" style=""><button class="btn btn-primary"  style="height:2.4em; background-color:white;color:blue;border: solid blue 1px;" type="button">Ask question</button></div>
 	</div>
 <br>
 <div class="card" style="width: 100%; border: 1px solid  grey ; border-radius:1em; ">
