@@ -43,29 +43,10 @@
       </div>
     </div>
   </nav><br><br><br>
-<div class="container">
-	<div class="row">
-		<div class=" col-xs-1 " style="float:left;">
-			<h2 style="font-family:Times; margin-top: 0;margin-left:10px;">Questions</h2>
-		</div>
-        <div class="col-xs-4	 col-xs-offset-5" style="margin-left: 38em;">
-    		
-            <div id="custom-search-input">
-                <div class="input-group col-xs-7 col-xs-offset-4">
-                    <input type="text" class="form-control input-md" style="" placeholder="Search your question" />
-                    <span class="input-group-btn">
-                        <button class="btn btn-info btn-lg" style="height:1.9em;" type="button">
-                            <i class="fa fa-search"></i>
-                        </button>
-                    </span>
-                </div>
-            </div>
-        </div>
-        <button class="btn btn-primary"  style="height:2.4em; background-color:white;color:blue;border: solid blue 1px;" type="button">Ask question</button></div>
-	</div>
+
   <div class="container">
 <br>
-<div class=" border" style="width: 100%;">
+<div class=" " style="width: 100%;">
   <div class="card-body" style="margin:2em;">
     <h5 class="card-title" style=" font-size:2em; ">How do I use Git and GitHub?</h5>
     <p class="card-text" >Quick sample text to create the card title and make up the body of the card's contentQuick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content..
@@ -77,61 +58,43 @@
     
     <a href="#" class="" style="padding-left: 0.8em;" ><span class="fa fa-thumbs-up" style="color:black;">14</span></a>
      <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-thumbs-down" style="color:black;">2</span></a>
-      <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-comments" style=>7</span></a>
+      <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-comments" style=>7 answers</span></a>
   </div>
 </div><br><br>
 <div class="border" style="width: 100%; border: 1px solid  grey ; border-radius:1em; ">
   <div class="card-body" style="margin:2em;">
-    <h5 class="card-title" style=" font-size:2em; ">What will I learn from Code Trek?</h5>
-    <p class="card-text" >Quick sample text to create the card title and make up the body of the card's contentQuick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content..
+    <p><span style="color:blue;">Dev shah</span> aswered on Oct 2,2018</p>
+    <p class="card-text" style="font-size:1em;" >Quick sample text to create the card title and make up the body of the card's contentQuick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content..
     <br>
-    <span class="badge badge-info">Git</span>
-    <span class="badge badge-info">Github</span> 
-    <span class="badge badge-info">VCS</span></p>
-    <p><span style="color:blue;">Abhishek pokhriya</span> asked on Oct 2,2018</p>
     
-    <a href="#" class="" style="padding-left: 0.8em;" ><span class="fa fa-thumbs-up" style="color:black;">14</span></a>
-     <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-thumbs-down" style="color:black;">2</span></a>
-      <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-comments" style=>7</span></a>
-  
+    
+    
   </div>
 </div><br><br>
 <div class="border" style="width: 100%;">
   <div class="card-body" style="margin:2em;">
-    <h5 class="card-title" style=" font-size:2em; ">Where can I apply for Code Trek?</h5>
+    <p><span style="color:blue; font-size:1em;">Deepak shah</span> aswered on Oct 2,2018</p>
     <p class="card-text" >Quick sample text to create the card title and make up the body of the card's contentQuick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content..<br>
-    <span class="badge badge-info">Git</span>
-    <span class="badge badge-info">Github</span> 
-    <span class="badge badge-info">VCS</span>
     </p>
     
-    <br>
+    
      
-    <p><span style="color:blue;">Abhishek pokhriya</span> asked on Oct 2,2018</p>
+    
     </p>
-   <a href="#" class="" style="padding-left: 0.8em;" ><span class="fa fa-thumbs-up" style="color:black;">14</span></a>
-     <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-thumbs-down" style="color:black;">2</span></a>
-      <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-comments" style=>7</span></a>
-  
+   
   </div>
-</div><br><br>
+</div><br>
 <div class="border" style="width: 100%; border: 1px solid  grey ; border-radius:1em; ">
   <div class="card-body" style="margin:2em;">
-    <h5 class="card-title" style=" font-size:2em; ">Who is Vyom Bangwal?</h5>
+  <p><span style="color:blue;">Deepu shah</span> aswered on Oct 2,2018</p>
     <p class="card-text" >Quick sample text to create the card title and make up the body of the card's contentQuick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content.Quick sample text to create the card title and make up the body of the card's content..</p>
-    <br>
-     <span class="badge badge-info">Git</span>
-    <span class="badge badge-info">Github</span> 
-    <span class="badge badge-info">VCS</span>
-    <p><span style="color:blue;">Abhishek pokhriya</span> asked on Oct 2,2018</p>
+    
+   
     </p>
-  <a href="#" class="" style="padding-left: 0.8em;" ><span class="fa fa-thumbs-up" style="color:black;">14</span></a>
-     <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-thumbs-down" style="color:black;">2</span></a>
-      <a href="#" class="" style="padding-left: 0.8em;"><span class="fa fa-comments" style=>7</span></a>
   
   </div>
 </div>
-<br><br>
+<br>
 
 
 </div>
